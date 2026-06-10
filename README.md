@@ -1,3 +1,5 @@
+<img src="https://yurtayev.com/icon.svg" width="36" alt="">
+
 ## Nikita Yurtayev
 
 Head of Product. I build with AI agents, in production, then keep notes on what holds up.
